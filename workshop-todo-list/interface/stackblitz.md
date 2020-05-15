@@ -10,5 +10,5 @@ Type `todo-item` in the text box to create the interface.
 
 Only component files have HTML templates so we don't need to shuffle any code around.
 
-Return to the previous page to [continue the tutorial](https://ng-girls.gitbook.io/todo-list-tutorial/interface/README.md).
+Return to the previous page to [continue the tutorial](https://nggirls-australia.gitbook.io/tutorial/workshop-todo-list/interface#working-with-interface).
 

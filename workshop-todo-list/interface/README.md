@@ -12,6 +12,8 @@ We want to use TypeScript's abilities to know what kind of object we pass as an 
 We'll use the Angular Generator to create the interface. Follow the instructions on the [StackBlitz instructions](stackblitz.md) page and return here to continue the worksheet.
 {% endhint %}
 
+## Working with interface
+
 In your IDE, open the newly created file `src/app/interfaces/todo-item.ts`:
 
 {% code title="src/app/interfaces/todo-item.ts" %}
