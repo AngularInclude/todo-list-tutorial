@@ -9,7 +9,7 @@ We're going to perform a small refactoring. The `app-root` shouldn't have such a
 {% hint style="info" %}
 **StackBlitz Instructions** ![](../.gitbook/assets/stackblitz-hint.svg)
 
-Use the Angular Generator to create the component, then make the component [use an inline template](https://itsallaboutweb.gitbook.io/nggirls-workshop/workshop-todo-list/component#inline-template). Continue with the remaining instructions on this page.
+Use the Angular Generator to create the component, then make the component [use an inline template](https://nggirls-australia.gitbook.io/tutorial/workshop-todo-list/component#inline-template). Continue with the remaining instructions on this page.
 {% endhint %}
 
 * Move all the code from `app-root` to `list-manager`.  
